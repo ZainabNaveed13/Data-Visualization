@@ -27,5 +27,5 @@ Follow these steps to explore the visualizations and insights provided in this r
 First, download the repository to your local machine:
 ```bash
 git clone https://github.com/YourUsername/data-visualization.git
-cd data-visualization
+cd Data-Visualization
 
